@@ -1,3 +1,5 @@
 Mi Primer Proyecto 
+
 Seccion actualizada desde master 
-A¤adido que se hace igual en las dos ramas 
+Seccion de funcionalidad a adida desde nueva_funcionalidad 
+A adido que se hace igual en las dos ramas 
